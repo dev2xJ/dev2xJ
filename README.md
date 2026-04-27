@@ -2,7 +2,7 @@
 
 Media & Commuincation Informatics Studemt
 Focused on building structured, problem-solving software
-Languages: Rust, Java, Python, Latex
+Languages: `Rust`, `Java`, `Python`, `Latex`
 
 ## About Me
 I enjoy desinging systems that are clean, efficient and purposeful.
